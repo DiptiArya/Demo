@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14453" started-at="2020-08-20T17:43:01Z" finished-at="2020-08-20T17:43:16Z">
+  <suite name="Default suite" duration-ms="17214" started-at="2020-08-20T20:43:54Z" finished-at="2020-08-20T20:44:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14453" started-at="2020-08-20T17:43:01Z" finished-at="2020-08-20T17:43:16Z">
+    <test name="Default test" duration-ms="17214" started-at="2020-08-20T20:43:54Z" finished-at="2020-08-20T20:44:11Z">
       <class name="Demo.Practice.CountProduct">
-        <test-method status="PASS" signature="getCount()[pri:0, instance:Demo.Practice.CountProduct@73ad2d6]" name="getCount" duration-ms="14402" started-at="2020-08-20T23:13:01Z" finished-at="2020-08-20T23:13:16Z">
+        <test-method status="PASS" signature="getCount()[pri:0, instance:Demo.Practice.CountProduct@73ad2d6]" name="getCount" duration-ms="17163" started-at="2020-08-21T02:13:54Z" finished-at="2020-08-21T02:14:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCount -->
